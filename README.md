@@ -12,22 +12,22 @@ Professor: [Bruno Orlandi](https://github.com/BrOrlandi)
 Segue o link dos videos no YouTube e slides no Slideshare:
 
 - Aula 1
-    - [Video](https://www.youtube.com/watch?v=vQIHe-h-GmE)
+    - [Video]()
     - [Slides](http://www.slideshare.net/BrunoOrlandi/aula-1-curso-git-e-github-webschool)
 - Aula 2
-    - [Video](https://www.youtube.com/watch?v=OePWbj6zT_Q)
+    - [Video]()
     - [Slides](http://www.slideshare.net/BrunoOrlandi/aula-2-curso-git-e-github-webschool)
 - Aula 3
-    - [Video](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16)
+    - [Video]()
     - [Slides](http://www.slideshare.net/BrunoOrlandi/aula-3-curso-git-e-github-webschool)
 - Aula 4
-    - [Video](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16)
+    - [Video]()
     - [Slides](http://www.slideshare.net/BrunoOrlandi/aula-4-curso-git-e-github-webschool)
 - Aula 5
-    - [Video](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16)
+    - [Video]()
     - [Slides](http://www.slideshare.net/BrunoOrlandi/aula-5-curso-git-e-github-webschool)
 - Aula 6
-    - [Video](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16)
+    - [Video]()
     - [Slides](http://www.slideshare.net/BrunoOrlandi/aula-6-curso-git-e-github-webschool)
 
 ## Material complementar
