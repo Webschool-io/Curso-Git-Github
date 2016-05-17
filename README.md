@@ -36,4 +36,5 @@ Segue o link dos videos no YouTube e slides no Slideshare:
 - Gerar chave SSH: https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 - GitHub Flow: https://guides.github.com/introduction/flow/
 - Git Game: http://www.git-game.com/
+- Guia com comandos para Git e GitHub: https://github.com/theandersonn/comandos-git
 - Mastering Issues no GitHub: https://guides.github.com/features/issues/
